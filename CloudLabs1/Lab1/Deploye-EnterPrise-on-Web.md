@@ -6,3 +6,8 @@ following requirements:
 - Prerequisites: Log in to HUAWEI CLOUD.Go to the [Lab Desktop] and open the Google
 - Chrome browser to access the HUAWEI CLOUD login page. Select IAM User Login. In the
 - login dialog box, enter the assigned HUAWEI CLOUD lab account and password to log in to
+
+**Images**
+
+(<img width="1011" height="461" alt="Cloud lab Image" src="https://github.com/user-attachments/assets/bb9fb42f-2bcd-4cbf-bd37-572e3bb46033" />
+)
