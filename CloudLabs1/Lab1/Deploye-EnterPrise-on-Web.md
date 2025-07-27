@@ -11,3 +11,5 @@ following requirements:
 
 (<img width="1011" height="461" alt="Cloud lab Image" src="https://github.com/user-attachments/assets/bb9fb42f-2bcd-4cbf-bd37-572e3bb46033" />
 )
+(<img width="1064" height="493" alt="Lab Image 2" src="https://github.com/user-attachments/assets/1f9d8789-4e9e-4577-bb01-9586c0cbf916" />
+)
