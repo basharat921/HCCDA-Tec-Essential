@@ -2,11 +2,11 @@
 *Contact (M): +92 3336064921, Email: basharat21@gmail.com*
 
 # SUMMARY
-Telecom Professional with of experience in **Regulatory Compliance, Site Design, Radio Network Planning Optimisation, Network Performance, and ICT Cloud Manage Services.**
+- Telecom Professional with of experience in **Regulatory Compliance, Site Design, Radio Network Planning Optimisation, Network Performance, and ICT Cloud Manage Services.**
 
-Hands-on experience for Voice, Data and Internet Services over 5G NR, 4G (FDD/TDD), VoLTE, WiMAX 3G, 2G with rollout, Delivery and Manage services for Fixed/Mobile Networks. 
+- Hands-on experience for Voice, Data and Internet Services over 5G NR, 4G (FDD/TDD), VoLTE, WiMAX 3G, 2G with rollout, Delivery and Manage services for Fixed/Mobile Networks. 
 
-Skills and Qualifications equipped within Telecommunication and Management fields to handle roll-out, Delivery and manage services projects to implement corporate strategy, ensuring consistency within the group and across the organisation
+- Skills and Qualifications equipped within Telecommunication and Management fields to handle roll-out, Delivery and manage services projects to implement corporate strategy, ensuring consistency within the group and across the organisation
 
 ## CAREER PROFILE
 -	Multi-Vendor experience on Ericsson, NSN, Huawei, ZTE, Alcatel Lucent, and Motorola.
