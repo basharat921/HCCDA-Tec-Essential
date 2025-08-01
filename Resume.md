@@ -20,7 +20,8 @@
 -	**Master's in Telecommunication Systems** and **MBA (Telecom Merger and Acquisition Management)**
 
 # WORK EXPERIENCE 
- ## Project: HCCDA-Cloud Tech Essential (May 2025 – Aug 2025) 
+ ## Project: HCCDA-Cloud Tech Essential (May 2025 – Aug 2025) ![Uploading image.png…]()
+
 ### Huawei Cloud Systems – NVTEC-Corvit Systems Multan
 **HCCDA-Cloud Tech Essential:**
 1.	**Huawei Cloud Eco System** guidelines to troubleshoot issues effectively and maintain overall system stability 
