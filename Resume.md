@@ -1,6 +1,6 @@
 # Basharat Hussain (HCCDA-Cloud Associate) ![Basharat Pic](https://github.com/user-attachments/assets/25d64ba8-f925-49ef-b5be-7d433b1f2443)
 
-*Contact (M): +92 3336064921, Email: basharat21@gmail.com*
+|*Contact (M): +92 3336064921, Email: basharat21@gmail.com*|
 
 # SUMMARY
 - Telecom Professional with of experience in **Regulatory Compliance, Site Design, Radio Network Planning Optimisation, Network Performance, and ICT Cloud Manage Services.**
