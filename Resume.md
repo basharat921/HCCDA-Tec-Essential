@@ -18,5 +18,18 @@
 -	Change Request Management approvals for all domains on OWS for CRs and RFCs approvals and engage stc teams.
 -	**Master's in Telecommunication Systems** and **MBA (Telecom Merger and Acquisition Management)**
 
+### WORK EXPERIENCE 
+ ## Project: HCCDA-Cloud Tech Essential (May 2025 – Aug 2025) 
+# Huawei Cloud Systems – NVTEC-Corvit Systems Multan
+**HCCDA-Cloud Tech Essential:**
+1.	Huawei Cloud Eco System guidelines to troubleshoot issues effectively and maintain overall system stability 
+2.	Linux Virtual Machines to configure and manage network services, storage solutions (VPCs ECS, EVS & OBS)
+3.	Configure NW and Storage Services using EVS of different OS for initialization, formatting, and creating snapshots for backup and cloning. 
+OBS for storage Operations by creating buckets and managing file uploads and downloads for unstructured data. SFS to share across multiple OS servers, demonstrating seamless cross-platform file access
+4.	Deploy Enterprise Web on Secure VPC to integrate required cloud resources (ECS, ELB, RDS, CES, auto scaling)
+5.	Compute Services for different OS to use IMS services for customize templates, life cycles and Identical ECS
+6.	Deep Seek Deployed a high-bandwidth ECS and installed the Ollama framework. 
+Downloaded and staged the large DeepSeek 1.5B model from a preconfigured OBS bucket
+Launched the LLM, enabling direct, interactive conversations with the AI from the server's command line.
 
 
