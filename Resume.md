@@ -21,8 +21,6 @@
 
 # WORK EXPERIENCE 
  ## Project: HCCDA-Cloud Tech Essential (May 2025 – Aug 2025) <img width="298" height="169" alt="image" src="https://github.com/user-attachments/assets/273f9b1a-9aa8-43e9-83a5-684e4d42eba9" />
-)
-
 ### Huawei Cloud Systems – NVTEC-Corvit Systems Multan
 **HCCDA-Cloud Tech Essential:**
 1.	**Huawei Cloud Eco System** guidelines to troubleshoot issues effectively and maintain overall system stability 
