@@ -19,9 +19,9 @@
 -	Change Request Management approvals for all domains on OWS for CRs and RFCs approvals and engage stc teams.
 -	**Master's in Telecommunication Systems** and **MBA (Telecom Merger and Acquisition Management)**
 
-### WORK EXPERIENCE 
+# WORK EXPERIENCE 
  ## Project: HCCDA-Cloud Tech Essential (May 2025 – Aug 2025) 
-# Huawei Cloud Systems – NVTEC-Corvit Systems Multan
+### Huawei Cloud Systems – NVTEC-Corvit Systems Multan
 **HCCDA-Cloud Tech Essential:**
 1.	**Huawei Cloud Eco System** guidelines to troubleshoot issues effectively and maintain overall system stability 
 2.	Linux Virtual Machines to configure and manage network services, storage solutions *(VPCs ECS, EVS & OBS)*
